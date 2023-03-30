@@ -20,6 +20,7 @@ type Movie_Info struct {
   BoxOfficeRevenueInMillions float32
   AcademyAwardNominations int
   AcademyAwardWins int
+  RottenTomatoesScore float32
 }
 
 type Movie_Franchise_Listing struct {
